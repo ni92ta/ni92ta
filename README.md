@@ -9,8 +9,10 @@
 - nikitarom@hotmail.com 
 - https://www.linkedin.com/in/nikitaromanovich/
 - +375259068003
-
+- 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ni92ta&theme=solarized_dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ni92ta)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!---
 ni92ta/ni92ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
