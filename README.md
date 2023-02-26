@@ -10,6 +10,8 @@
 - https://www.linkedin.com/in/nikitaromanovich/
 - +375259068003
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ni92ta)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 ni92ta/ni92ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
